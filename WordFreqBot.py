@@ -9,7 +9,6 @@
 ##############################################################################
 
 import tweepy
-from keys import *
 import os
 import redis
 from math import ceil
