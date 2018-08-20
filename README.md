@@ -1,7 +1,3 @@
 # wordfreqbot
-A Twitter bot written in Python using the Tweepy library that tells users how frequently a word is used on their timelines when the word is tweeted at it. <strong>Follow @WordFreqBot</strong>
-
-### Tweepy:
-Github: https://github.com/tweepy/tweepy <br>
-Website: http://www.tweepy.org/
+A bot written in Python using the Tweepy library and hosted on Heroku that tells Twitter users how frequently a word is used on their timelines when the word is tweeted at it. <strong>Follow @WordFreqBot</strong>
 
